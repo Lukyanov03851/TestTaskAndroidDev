@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#173952</color>
+    <color name="colorPrimaryDark">#000001</color>
+    <color name="colorAccent">#2567bf</color>
+    <color name="colorTextOrange">#c34512</color>
+    <color name="colorTextGreen">#428d42</color>
+    <color name="colorTextGray">#b0b4b0</color>
+    <color name="color_seekBar_gray">#c6defe</color>
+    <color name="borderColor">#b0b4b0</color>
+</resources>

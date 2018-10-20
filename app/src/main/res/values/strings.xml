@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TestTaskAndroidDev</string>
+    <string name="logo">logo</string>
+    <string name="sales_percent">Rating with \"Got Sales\" badge:</string>
+    <string name="online_now">online now</string>
+    <string name="hot_sales_cnt">Sold %1$s solos in the last couple of days</string>
+    <string name="visitors_value">%1$d Visitors</string>
+    <string name="only_mobile">Only mobile</string>
+    <string name="no_mobile">No mobile</string>
+    <string name="only_top_tier">Only top tier</string>
+    <string name="prime_filter">Prime filter</string>
+    <string name="add_to_cart_empty">Add to Cart</string>
+    <string name="add_to_cart">Add to Cart ($%1$d)</string>
+    <string name="url_not_valid">URL not valid!</string>
+    <string name="like">like</string>
+    <string name="avatar">avatar</string>
+    <string name="placeholder">placeholder</string>
+    <string name="hot_sales">hot sales</string>
+</resources>
